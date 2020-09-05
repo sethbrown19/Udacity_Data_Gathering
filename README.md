@@ -1,3 +1,3 @@
-# Udacity_Data_Gathering
-Used to keep track of data gathering lesson in data analyst course through Udacity.
-This will be my first Github Repo that is live and that i will continue to update. Others i have uploaded already completed work. 
+# Udacity_Data_Wrangling_Lesson
+Used to keep track of data gathering (wrangling data) lesson in data analyst course through Udacity.
+We will look at the data wrangling process of Gathering, Assessing, and Cleaning a data set.
